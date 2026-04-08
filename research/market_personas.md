@@ -1,9 +1,1 @@
-Automatização de processos complexos para aumento da produtividade
-
-Acessível:
-Melhorar o relacionamento entre equipes remotas para aumentar a produtividade 
-
-Desafios atuais:
- Dificuldade em manter sistemas atualizados e seguros
-Falta de ferramentas adequadas para gerenciamento de projetos remotos.
-Melhoria na comunicação eficaz entre equipes desconcentradas.
+# Personas-chave: \nDora: executiva de marketing de uma grande empresa (100 funcionrios) \n  - Maior preocupacao: automacao de procesos operacionais para aumento da produtividade \n  - Principais dores: complexidade de processos, falta de eficiencia na equipe 
